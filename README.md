@@ -1,4 +1,4 @@
-# lua-modules
+# tstl-issues1325
 
 - `git clone https://github.com/denis-atsuta/tstl-issues1325.git`
 - `cd tstl-issues1325`
