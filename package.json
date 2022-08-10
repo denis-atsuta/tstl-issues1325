@@ -1,0 +1,12 @@
+{
+  "name": "tstl-issues1325",
+  "scripts": {
+    "start": "tstl",
+    "build": "tstl",
+    "dev": "tstl --watch"
+  },
+  "devDependencies": {
+    "typescript": "4.7.4",
+    "typescript-to-lua": "1.8.0"
+  }
+}
